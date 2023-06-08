@@ -15,3 +15,5 @@ if (jogo == 1):
 elif (jogo == 2):
     print("Jogando adivinhação")
     adivinhacao.jogar()
+else:
+    print("Jogo Inválido")
